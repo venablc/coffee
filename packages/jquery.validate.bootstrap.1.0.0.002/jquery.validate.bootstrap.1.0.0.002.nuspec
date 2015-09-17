@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>jquery.validate.bootstrap</id>
+    <version>1.0.0.002</version>
+    <title>jquery validation with bootstrap</title>
+    <authors>ibrahim aydin</authors>
+    <owners>ibrahim aydin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Changes the default jQuery validator events to display a validation icon and a tooltip text with bootstrap style.
+
+This package is not in a stable and useful state.</description>
+    <summary>Changes the default jQuery validator events to display a validation icon and a tooltip text with bootstrap style.
+
+This package is not in a stable and useful state.</summary>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <tags>jquery validate bootstrap validation</tags>
+    <dependencies>
+      <dependency id="jQuery" version="1.9.1" />
+      <dependency id="jQuery.Validation" version="1.10.0" />
+      <dependency id="bootstrap" version="3.1.1" />
+      <dependency id="Microsoft.jQuery.Unobtrusive.Ajax" version="3.1.1" />
+      <dependency id="Microsoft.jQuery.Unobtrusive.Validation" version="3.1.1" />
+    </dependencies>
+  </metadata>
+</package>
